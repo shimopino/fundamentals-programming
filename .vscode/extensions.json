@@ -3,6 +3,7 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "rust-lang.rust",
-    "freebroccolo.reasonml"
+    "freebroccolo.reasonml",
+    "badochov.ocaml-formatter"
   ]
 }
