@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
-  "[ml]": {
+  "[ocaml]": {
     "editor.defaultFormatter": "freebroccolo.reasonml"
-  }
+  },
 }
