@@ -18,6 +18,19 @@ VSCode の場合は **Remote Container** 機能を活用する。
 | TypeScript | `ts-node <file.ts>`          |
 | Rust       | `cargo single run <file.rs>` |
 
+## OCaml 環境を VSCode で設定する
+
+```bash
+# OCamlのインストロールを行う
+# 指示に従って環境変数などを編集する
+brew install opam
+
+# LSP環境を作成する
+opam pin add ocaml-lsp-server https://github.com/ocaml/ocaml-lsp.git
+opam install ocaml-lsp-server
+
+```
+
 ## 参考リンク
 
 - [本書のサポートページ](http://pllab.is.ocha.ac.jp/~asai/book/Top.html)
