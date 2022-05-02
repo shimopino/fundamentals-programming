@@ -4,6 +4,7 @@
     "esbenp.prettier-vscode",
     "rust-lang.rust",
     "ocamllabs.ocaml-platform",
-    "badochov.ocaml-formatter"
+    "badochov.ocaml-formatter",
+    "usernamehw.errorlens"
   ]
 }

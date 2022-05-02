@@ -1,5 +1,7 @@
 {
   "editor.formatOnSave": true,
+  "ocaml-formatter.ocamlformat-path": "/Users/shimopino/.opam/default/bin/ocamlformat",
+  "ocaml-formatter.profile": "conventional",
   "[ocaml]": {
     "editor.defaultFormatter": "badochov.ocaml-formatter"
   },
