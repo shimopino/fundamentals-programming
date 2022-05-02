@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
   "[ocaml]": {
-    "editor.defaultFormatter": "freebroccolo.reasonml"
+    "editor.defaultFormatter": "badochov.ocaml-formatter"
   },
 }

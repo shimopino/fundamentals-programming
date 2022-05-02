@@ -35,3 +35,4 @@ opam install ocaml-lsp-server
 
 - [本書のサポートページ](http://pllab.is.ocha.ac.jp/~asai/book/Top.html)
 - [min-caml](https://github.com/esumii/min-caml)
+- [OCaml の補完とフォーマットを VSCode 上で実現するための試行錯誤](https://blog.ojisan.io/ocaml-lsp-vscode/#ocamllsp-%E3%81%8C-vscode-%E4%B8%8A%E3%81%8B%E3%82%89%E3%81%A0%E3%81%91%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84)
