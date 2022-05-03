@@ -5,4 +5,8 @@
   "[ocaml]": {
     "editor.defaultFormatter": "badochov.ocaml-formatter"
   },
+  "editor.renderControlCharacters": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "block"
 }
